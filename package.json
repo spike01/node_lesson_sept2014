@@ -1,0 +1,22 @@
+{
+  "name": "node_lesson_sept2014",
+  "version": "1.0.0",
+  "description": "Teaching node",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "www.github.com/spike01/node_lesson_sept2014"
+  },
+  "keywords": [
+    "Node"
+  ],
+  "author": "Spike",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^1.0.0",
+    "express": "^4.10.0"
+  }
+}
